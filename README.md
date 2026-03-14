@@ -1,4 +1,4 @@
-HelloWorld2. Pascal Tutorials. Platform DotNet FrameWork. Simple Input/Output. Console Application. 
+HelloWorld2. Pascal Tutorials. Platform DotNet FrameWork. Simple Input/Output. Console Application.
 A console application in the Pascal programming language. 
 The program does the following:
   1. Prompts input a name.
